@@ -1,0 +1,8 @@
+# Research PDFs stay on this computer.
+/papers/
+/.venv/
+/.cache/
+*.part
+__pycache__/
+*.pyc
+*.jsonl.tmp

@@ -1,0 +1,73 @@
+# 评测方法
+
+未见场景、多轮轨迹、匿名角色、人评与 LLM 裁判。
+
+同一论文只有一条书目记录及一份本地 PDF；这里链接到其首次公开年份索引。
+
+- **2018** [Personalizing Dialogue Agents: I have a dog, do you have pets too?](../by-year/2018.md#paper-p18-1205) · P18-1205 · downloaded
+- **2018** [Dialogue Natural Language Inference](../by-year/2018.md#paper-p19-1363) · P19-1363 · downloaded
+- **2022** [Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances](../by-year/2022.md#paper-2022-naacl-main-377) · 2022.naacl-main.377 · downloaded
+- **2022** [Large Language Models Meet Harry Potter: A Dataset for Aligning Dialogue Agents with Characters](../by-year/2022.md#paper-2023-findings-emnlp-570) · 2023.findings-emnlp.570 · downloaded
+- **2023** [Generative Agents: Interactive Simulacra of Human Behavior](../by-year/2023.md#paper-arxiv-2304-03442) · arxiv-2304.03442 · downloaded
+- **2023** [RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models](../by-year/2023.md#paper-2024-findings-acl-878) · 2024.findings-acl.878 · downloaded
+- **2023** [InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews](../by-year/2023.md#paper-2024-acl-long-102) · 2024.acl-long.102 · downloaded
+- **2023** [RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models](../by-year/2023.md#paper-arxiv-2312-16132) · arxiv-2312.16132 · downloaded
+- **2024** [CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation](../by-year/2024.md#paper-2024-acl-long-638) · 2024.acl-long.638 · downloaded
+- **2024** [Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment](../by-year/2024.md#paper-2024-acl-long-423) · 2024.acl-long.423 · downloaded
+- **2024** [OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models](../by-year/2024.md#paper-2024-acl-long-466) · 2024.acl-long.466 · downloaded
+- **2024** [Enhancing Role-playing Systems through Aggressive Queries: Evaluation and Improvement](../by-year/2024.md#paper-arxiv-2402-10618) · arxiv-2402.10618 · downloaded
+- **2024** [SocialBench: Sociality Evaluation of Role-Playing Conversational Agents](../by-year/2024.md#paper-2024-findings-acl-125) · 2024.findings-acl.125 · downloaded
+- **2024** [Towards Objectively Benchmarking Social Intelligence of Language Agents at the Action Level](../by-year/2024.md#paper-2024-findings-acl-526) · 2024.findings-acl.526 · downloaded
+- **2024** [Character is Destiny: Can Persona-assigned Language Models Make Personal Choices?](../by-year/2024.md#paper-2025-findings-emnlp-813) · 2025.findings-emnlp.813 · downloaded
+- **2024** [Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works](../by-year/2024.md#paper-2024-emnlp-main-456) · 2024.emnlp-main.456 · downloaded
+- **2024** [From Persona to Personalization: A Survey on Role-Playing Language Agents](../by-year/2024.md#paper-arxiv-2404-18231) · arxiv-2404.18231 · downloaded
+- **2024** [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](../by-year/2024.md#paper-2024-findings-acl-197) · 2024.findings-acl.197 · downloaded
+- **2024** [Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks](../by-year/2024.md#paper-2024-findings-emnlp-819) · 2024.findings-emnlp.819 · downloaded
+- **2024** [Mitigating Hallucination in Fictional Character Role-Play](../by-year/2024.md#paper-2024-findings-emnlp-846) · 2024.findings-emnlp.846 · downloaded
+- **2024** [Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data](../by-year/2024.md#paper-2024-findings-emnlp-853) · 2024.findings-emnlp.853 · downloaded
+- **2024** [Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles](../by-year/2024.md#paper-2024-emnlp-main-591) · 2024.emnlp-main.591 · downloaded
+- **2024** [The Oscars of AI Theater: A Survey on Role-Playing with Language Models](../by-year/2024.md#paper-arxiv-2407-11484) · arxiv-2407.11484 · downloaded
+- **2024** [Revealing and Mitigating the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing](../by-year/2024.md#paper-2025-emnlp-main-1689) · 2025.emnlp-main.1689 · downloaded
+- **2024** [ERABAL: Enhancing Role-Playing Agents through Boundary-Aware Learning](../by-year/2024.md#paper-arxiv-2409-14710) · arxiv-2409.14710 · downloaded
+- **2024** [RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems](../by-year/2024.md#paper-2025-coling-main-494) · 2025.coling-main.494 · downloaded
+- **2024** [Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing](../by-year/2024.md#paper-2025-findings-acl-311) · 2025.findings-acl.311 · downloaded
+- **2024** [AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios](../by-year/2024.md#paper-2025-naacl-long-257) · 2025.naacl-long.257 · downloaded
+- **2024** [CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds](../by-year/2024.md#paper-2025-naacl-long-323) · 2025.naacl-long.323 · downloaded
+- **2025** [RAIDEN Benchmark: Evaluating Role-playing Conversational Agents with Measurement-Driven Custom Dialogues](../by-year/2025.md#paper-2025-coling-main-735) · 2025.coling-main.735 · downloaded
+- **2025** [MIRAGE: Exploring How Large Language Models Perform in Complex Social Interactive Environments](../by-year/2025.md#paper-2025-acl-short-2) · 2025.acl-short.2 · downloaded
+- **2025** [CoSER: Coordinating LLM-Based Persona Simulation of Established Roles](../by-year/2025.md#paper-arxiv-2502-09082) · arxiv-2502.09082 · downloaded
+- **2025** [RoleMRC: A Fine-Grained Composite Benchmark for Role-Playing and Instruction-Following](../by-year/2025.md#paper-2025-findings-acl-1082) · 2025.findings-acl.1082 · downloaded
+- **2025** [Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents](../by-year/2025.md#paper-2025-findings-acl-938) · 2025.findings-acl.938 · downloaded
+- **2025** [Reasoning Does Not Necessarily Improve Role-Playing Ability](../by-year/2025.md#paper-2025-findings-acl-537) · 2025.findings-acl.537 · downloaded
+- **2025** [Guess What I am Thinking: A Benchmark for Inner Thought Reasoning of Role-Playing Language Agents](../by-year/2025.md#paper-2025-findings-emnlp-819) · 2025.findings-emnlp.819 · downloaded
+- **2025** [EmoCharacter: Evaluating the Emotional Fidelity of Role-Playing Agents in Dialogues](../by-year/2025.md#paper-2025-naacl-long-316) · 2025.naacl-long.316 · downloaded
+- **2025** [DMT-RoleBench: A Dynamic Multi-Turn Dialogue Based Benchmark for Role-Playing Evaluation of Large Language Model and Agent](../by-year/2025.md#paper-aaai-2025-34768) · aaai-2025-34768 · downloaded
+- **2025** [Act-LLM: A whole-process chain for character-centric role-playing with large language models](../by-year/2025.md#paper-doi-10-1016-j-eswa-2025-129024) · doi:10.1016/j.eswa.2025.129024 · unavailable
+- **2025** [RolePlot: A Systematic Framework for Evaluating and Enhancing the Plot-Progression Capabilities of Role-Playing Agents](../by-year/2025.md#paper-2025-acl-long-603) · 2025.acl-long.603 · downloaded
+- **2025** [Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust](../by-year/2025.md#paper-arxiv-2507-02197) · arxiv-2507.02197 · downloaded
+- **2025** [PersonaEval: Are LLM Evaluators Human Enough to Judge Role-Play?](../by-year/2025.md#paper-arxiv-2508-10014) · arxiv-2508.10014 · downloaded
+- **2025** [ChatAnime: Towards User-Centered Emotional Support in LLM-based Virtual Character Chat](../by-year/2025.md#paper-2026-acl-long-2179) · 2026.acl-long.2179 · downloaded
+- **2025** [CPO: Addressing Reward Ambiguity in Role-playing Dialogue via Comparative Policy Optimization](../by-year/2025.md#paper-2025-findings-emnlp-18) · 2025.findings-emnlp.18 · downloaded
+- **2025** [CharacterCraft: Bridging the Literature-Reality Dialogue Gap for Practical Role-Playing Agents](../by-year/2025.md#paper-2025-findings-emnlp-323) · 2025.findings-emnlp.323 · downloaded
+- **2025** [R-CHAR: A Metacognition-Driven Framework for Role-Playing in Large Language Models](../by-year/2025.md#paper-2025-emnlp-main-1372) · 2025.emnlp-main.1372 · downloaded
+- **2025** [Too Good to be Bad: On the Failure of LLMs to Role-Play Villains](../by-year/2025.md#paper-2026-findings-acl-282) · 2026.findings-acl.282 · downloaded
+- **2026** [Deriving Character Logic from Storyline as Codified Decision Trees](../by-year/2026.md#paper-2026-acl-long-568) · 2026.acl-long.568 · downloaded
+- **2026** [Role-Playing Agents Driven by Large Language Models: Current Status, Challenges, and Future Trends](../by-year/2026.md#paper-arxiv-2601-10122) · arxiv-2601.10122 · downloaded
+- **2026** [AdaMARP: An Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing](../by-year/2026.md#paper-2026-findings-acl-1563) · 2026.findings-acl.1563 · downloaded
+- **2026** [HER: Human-like Reasoning and Reinforcement Learning for LLM Role-playing](../by-year/2026.md#paper-2026-findings-acl-1283) · 2026.findings-acl.1283 · downloaded
+- **2026** [Codified Finite-state Machines for Role-playing](../by-year/2026.md#paper-arxiv-2602-05905) · arxiv-2602.05905 · downloaded
+- **2026** [PERSONA: Dynamic and Compositional Inference-Time Personality Control via Activation Vector Algebra](../by-year/2026.md#paper-arxiv-2602-15669) · arxiv-2602.15669 · downloaded
+- **2026** [Rethinking Role-Playing Evaluation: Anonymous Benchmarking and A Systematic Study of Personality Effects](../by-year/2026.md#paper-2026-sigdial-1-15) · 2026.sigdial-1.15 · downloaded
+- **2026** [Memory-Driven Role-Playing: Evaluation and Enhancement of Persona Knowledge Utilization in LLMs](../by-year/2026.md#paper-2026-findings-acl-1175) · 2026.findings-acl.1175 · downloaded
+- **2026** [StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall](../by-year/2026.md#paper-2026-acl-long-1491) · 2026.acl-long.1491 · downloaded
+- **2026** [BOOKMARKS: Efficient Active Storyline Memory for Role-playing](../by-year/2026.md#paper-arxiv-2605-14169) · arxiv-2605.14169 · downloaded
+- **2026** [PersonaArena: Dynamic Simulation for Evaluating and Enhancing Persona-Level Role-Playing in Large Language Models](../by-year/2026.md#paper-2026-findings-acl-471) · 2026.findings-acl.471 · downloaded
+- **2026** [DREAM: LLM-based Dynamic Role-playing via Event-Aware Memory Graph](../by-year/2026.md#paper-arxiv-2608-05170) · arxiv-2608.05170 · downloaded
+- **2026** [RoleCDE: Benchmarking and Mitigating Role-Alignment Trade-offs in Role-Playing Agents](../by-year/2026.md#paper-2026-findings-acl-106) · 2026.findings-acl.106 · downloaded
+- **2026** [Staying In Character: Perspective-Bounded Memory For Book-Based Role-Playing Agents](../by-year/2026.md#paper-arxiv-2606-25632) · arxiv-2606.25632 · downloaded
+- **2026** [Beyond Static Persona Consistency: Dynamic Persona Coherence in LLM Role-Playing](../by-year/2026.md#paper-2026-acl-long-1336) · 2026.acl-long.1336 · downloaded
+- **2026** [PersonaForge: Psychology-Grounded Dual-Process Architecture for Personality-Consistent Role-Playing Agents](../by-year/2026.md#paper-2026-findings-acl-386) · 2026.findings-acl.386 · downloaded
+- **2026** [Understanding Generalization in Role-Playing Models via Information Theory](../by-year/2026.md#paper-2026-findings-acl-87) · 2026.findings-acl.87 · downloaded
+- **2026** [Role Steering of Language Models for Social Simulations](../by-year/2026.md#paper-arxiv-2608-00023) · arxiv-2608.00023 · downloaded
+- **2026** [Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation](../by-year/2026.md#paper-arxiv-2607-27816) · arxiv-2607.27816 · downloaded
+- **2026** [CHARM: Character Hallucination for Multicultural Role Play Benchmark](../by-year/2026.md#paper-arxiv-2609-01352) · arxiv-2609.01352 · downloaded

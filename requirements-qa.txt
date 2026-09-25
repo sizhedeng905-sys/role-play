@@ -1,0 +1,2 @@
+# Optional: local PDF first-page text checks; downloader uses the standard library.
+pypdf==6.5.0
