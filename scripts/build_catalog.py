@@ -151,7 +151,7 @@ def main() -> None:
         else:
             safe_id = slug(row["id"], 48)
             short_title = slug(row["title"], 56)
-            row["local_path"] = f"papers/{row['themes'][0]}/{row['year']}/{safe_id}__{short_title}.pdf"
+            row["local_path"] = f"原文/{row['themes'][0]}/{row['year']}/{safe_id}__{short_title}.pdf"
             row.setdefault("sha256", "")
             row.setdefault("size_bytes", 0)
             row.setdefault("download_status", "pending" if row.get("pdf_url") else "unavailable")

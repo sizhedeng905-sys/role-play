@@ -1,6 +1,6 @@
 # Codified Decision Trees：从原作场景与行动归纳条件化角色逻辑
 
-- 论文：Letian Peng 等，*Deriving Character Logic from Storyline as Codified Decision Trees*，ACL 2026，12480–12509，DOI [10.18653/v1/2026.acl-long.568](https://doi.org/10.18653/v1/2026.acl-long.568)。首次公开：[arXiv:2601.10080](https://arxiv.org/abs/2601.10080)（2026-01-15）；精读依据为本地下载的 [ACL 正式 PDF](../papers/psychology-decisions/2026/2026-acl-long-568__deriving-character-logic-from-storyline-as-codified-deci.pdf) 和 [正式出版页](https://aclanthology.org/2026.acl-long.568/)。
+- 论文：Letian Peng 等，*Deriving Character Logic from Storyline as Codified Decision Trees*，ACL 2026，12480–12509，DOI [10.18653/v1/2026.acl-long.568](https://doi.org/10.18653/v1/2026.acl-long.568)。首次公开：[arXiv:2601.10080](https://arxiv.org/abs/2601.10080)（2026-01-15）；精读依据为本地下载的 [ACL 正式 PDF](../原文/psychology-decisions/2026/2026-acl-long-568__deriving-character-logic-from-storyline-as-codified-deci.pdf) 和 [正式出版页](https://aclanthology.org/2026.acl-long.568/)。
 - 关联线索：`psychology-decisions`、`agent-memory`、`interventions`、`evaluation`；与能力边界的关系是下文提出的研究用途，论文没有直接评估技能上限。
 - 页码说明：下文先写 **PDF 物理页**，括号内是论文印刷页。例如「PDF 5（12484）」指阅读器第 5 页。
 

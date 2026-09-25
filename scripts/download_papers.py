@@ -1,7 +1,7 @@
 """Download open paper PDFs with resume, retry, throttling, and SHA-256 checks.
 
 Run from anywhere: python scripts/download_papers.py [--only ID] [--limit N]
-The only output below papers/ is public research PDFs, which are gitignored.
+The only output below 原文/ is public research PDFs, which are gitignored.
 """
 
 from __future__ import annotations
@@ -103,8 +103,8 @@ def process(row: dict, retries: int, timeout: int) -> str:
         row["download_error"] = row.get("download_error") or "No legal open PDF URL verified"
         return "unavailable"
     local = ROOT / row["local_path"]
-    if not local.resolve().is_relative_to((ROOT / "papers").resolve()):
-        raise ValueError(f"Output path escapes papers/: {row['local_path']}")
+    if not local.resolve().is_relative_to((ROOT / "原文").resolve()):
+        raise ValueError(f"Output path escapes 原文/: {row['local_path']}")
     local.parent.mkdir(parents=True, exist_ok=True)
     if local.exists():
         try:

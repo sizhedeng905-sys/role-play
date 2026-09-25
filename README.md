@@ -7,15 +7,19 @@
 | 内容 | 位置 |
 | --- | --- |
 | 机器可读书目、PDF 链接、路径、SHA-256 与下载状态 | [catalog/papers.jsonl](catalog/papers.jsonl) |
+| 本机下载的论文原文 PDF | [原文/](原文/)；GitHub 仅显示目录说明，PDF 留在本机 |
 | 2018–2026 年中文索引 | [literature/by-year/](literature/by-year/) |
 | 六条研究线索中文索引 | [literature/by-theme/](literature/by-theme/) |
 | 重点论文全文精读笔记 | [notes/](notes/) |
 | 路线比较、评测草案、未解问题 | [research/architecture-options.md](research/architecture-options.md)、[research/evaluation-design.md](research/evaluation-design.md)、[research/open-questions.md](research/open-questions.md) |
 | 检索词、筛选与版本修正 | [search-log.md](search-log.md) |
 | 本次下载与完整性核验结果 | [research/validation-report.md](research/validation-report.md) |
+| 论文是否直接研究 AI 原作角色扮演 | [research/ai-relevance-audit.md](research/ai-relevance-audit.md) |
 | 下载、核验、索引维护脚本 | [scripts/](scripts/) |
 
 年份按**首次可核实公开日期**，正式发表日期另列。因此某篇 2026 年正式论文可能出现在 2025 年索引。预印本和正式版合并一条书目，保留两个来源链接；优先保存正式 PDF。论文跨线索只存一份 PDF，通过 `themes` 多标签交叉引用。`relevance=medium` 表示历史起点、综述或方法对照，效果外推需格外谨慎。
+
+这些条目属于 AI、NLP 或机器学习研究，但**不都直接研究已有原作虚构人物的 LLM 扮演**。按主要数据或任务复核：48 篇涉及已有原作虚构人物，30 篇是相邻 AI 方法，9 篇是早期 AI/NLP 基础工作。早期对话系统、通用社会代理、模拟病人及综述作为对照或方法来源收录；是否能证明某个具体人物的能力上限，须另看研究对象、原作证据和评测任务。`relevance` 表示与本项目研究问题的关联程度，不是「是否 AI」或「是否原作人物」的二元标签。
 
 ## 研究线索
 
@@ -51,6 +55,6 @@ python -m venv .venv
 
 ## 文件与版权边界
 
-`papers/`、临时缓存和虚拟环境在 `.gitignore` 中。私有 GitHub 仓库只保存原创中文分析、代码、书目信息和链接；论文 PDF 以及任何受版权保护的原作台词、剧本、书籍全文只留本地。没有批量下载原作材料或角色数据集。
+`原文/` 中的 PDF、临时缓存和虚拟环境在 `.gitignore` 中。私有 GitHub 仓库只保存原创中文分析、代码、书目信息和链接；论文 PDF 以及任何受版权保护的原作台词、剧本、书籍全文只留本地。没有批量下载原作材料或角色数据集。
 
 方法效果以各笔记所引原论文为限；自己的设计推断标记为「研究设想」。从文献库进入具体角色研究时，应先建立带场景与时间戳的原作证据卡，再做人物级评测。没有原作证据的特质允许写成「未知」，不能把通用高能力、高情商或反过来的笨拙预设给所有角色。

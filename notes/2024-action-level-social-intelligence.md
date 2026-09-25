@@ -1,6 +1,6 @@
 # Wang et al. (2024): STSS 行动层社会智能评测
 
-原文：[ACL Anthology](https://aclanthology.org/2024.findings-acl.526/)；本地 PDF：`papers/psychology-decisions/2024/2024-findings-acl-526__towards-objectively-benchmarking-social-intelligence-of.pdf`。精读依据为正式版全文（13 页），页码以下以 PDF 顺序计。
+原文：[ACL Anthology](https://aclanthology.org/2024.findings-acl.526/)；本地 PDF：`原文/psychology-decisions/2024/2024-findings-acl-526__towards-objectively-benchmarking-social-intelligence-of.pdf`。精读依据为正式版全文（13 页），页码以下以 PDF 顺序计。
 
 ## 研究问题
 

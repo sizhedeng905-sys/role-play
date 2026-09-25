@@ -1,6 +1,6 @@
 # RoleCDE：价值冲突下的角色决策与助手对齐偏向
 
-- 论文：Huayi Lai 等，*RoleCDE: Benchmarking and Mitigating Role-Alignment Trade-offs in Role-Playing Agents*，Findings of ACL 2026，2226–2248，DOI [10.18653/v1/2026.findings-acl.106](https://doi.org/10.18653/v1/2026.findings-acl.106)。首次公开：[arXiv:2606.01552](https://arxiv.org/abs/2606.01552)（2026-06-01）；精读依据为本地下载的 [ACL 正式 PDF](../papers/psychology-decisions/2026/2026-findings-acl-106__rolecde-benchmarking-and-mitigating-role-alignment-trade.pdf) 和 [正式出版页](https://aclanthology.org/2026.findings-acl.106/)。
+- 论文：Huayi Lai 等，*RoleCDE: Benchmarking and Mitigating Role-Alignment Trade-offs in Role-Playing Agents*，Findings of ACL 2026，2226–2248，DOI [10.18653/v1/2026.findings-acl.106](https://doi.org/10.18653/v1/2026.findings-acl.106)。首次公开：[arXiv:2606.01552](https://arxiv.org/abs/2606.01552)（2026-06-01）；精读依据为本地下载的 [ACL 正式 PDF](../原文/psychology-decisions/2026/2026-findings-acl-106__rolecde-benchmarking-and-mitigating-role-alignment-trade.pdf) 和 [正式出版页](https://aclanthology.org/2026.findings-acl.106/)。
 - 关联线索：`psychology-decisions`、`ability-boundaries`、`interventions`、`evaluation`。
 - 页码说明：下文先写 **PDF 物理页**，括号内是论文印刷页。例如「PDF 4（2229）」指阅读器第 4 页。
 - 数据纠错：ACL 落地页摘要写近 **240k** 个困境；正式 PDF 第 1、4 页及 arXiv 摘要均写约 **24k**，PDF 第 4 页明确为 **23,871**。以下采用正式 PDF 数字。（PDF 1、4〔2226、2229〕）

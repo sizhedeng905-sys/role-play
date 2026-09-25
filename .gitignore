@@ -1,5 +1,7 @@
 # Research PDFs stay on this computer.
 /papers/
+/原文/*
+!/原文/README.md
 /.venv/
 /.cache/
 *.part

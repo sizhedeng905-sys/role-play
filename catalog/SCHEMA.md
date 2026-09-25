@@ -10,8 +10,8 @@
 | `publication_date`, `venue` | 正式版时间与出版场所，允许为空。 |
 | `doi`, `arxiv_id`, `acl_id` | 同一工作的不同标识；允许为空。 |
 | `source_url`, `source_links`, `pdf_url` | 主原始页、其他合法版本页、实际尝试下载的 PDF URL；预印本与正式版链接都保留。 |
-| `themes`, `relevance` | 六个主题标签可多选；`direct`、`high` 为核心研究，`medium` 为历史对照、综述或可迁移方法。 |
-| `local_path` | 相对仓库根目录的本地 PDF 路径，按首发年和主要主题归档；Git 忽略其父目录 `papers/`。 |
+| `themes`, `relevance` | 六个主题标签可多选；`direct`、`high` 为与某研究问题高度相关的工作，`medium` 为历史对照、综述或可迁移方法。该字段不表示论文都直接研究已有原作虚构人物，详见[范围审计](../research/ai-relevance-audit.md)。 |
+| `local_path` | 相对仓库根目录的本地 PDF 路径，按首发年和主要主题归档；Git 忽略 `原文/` 中的 PDF。 |
 | `download_status` | `pending`、`downloaded`、`unavailable`、`failed` 或 `conflict`。只有 `downloaded` 表示本机实际存在且通过校验。 |
 | `sha256`, `size_bytes`, `download_error`, `downloaded_at` | 下载文件摘要、大小、失败原因与 UTC 时间。再次下载会先核对已有文件。 |
 | `abstract_summary`, `verification_notes` | 检索阶段的简要线索与版本/日期审计备注。`abstract_summary` 仅属摘要层级，**不能冒充全文精读**；详见 `notes/`。 |
